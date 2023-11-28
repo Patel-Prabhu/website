@@ -1,4 +1,4 @@
-module github.com/prabhupatel/hugo-theme-bootstrap-skeleton
+module github.com/Prabhu-Patel/website
 
 go 1.18
 
